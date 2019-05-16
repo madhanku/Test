@@ -1,2 +1,3 @@
 This is the first line in the test branch 1
 Second line in this test branch 1
+This is the final file after merging test branch 1 to master branch
